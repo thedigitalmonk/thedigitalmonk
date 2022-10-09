@@ -4,7 +4,7 @@
 
 I am a Product Designer (UX) who also likes learning programming on the side!
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning how to create end-to-end web applications
 - 🌱 I’m currently learning java programming, relational database management and reactjs!
 - 💞️ I’m looking to collaborate on small learning projects so I can practice my skills
 - 📫 You can reach me via hello[at]thedigitalmonk.in
